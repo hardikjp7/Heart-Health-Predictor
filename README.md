@@ -8,7 +8,7 @@ Heart Health Predictor is a web application built using Streamlit that helps use
 - **heart.py:** Python script for the Streamlit web application.
 - **requirements.txt:** List of Python dependencies required to run the project.
 
-## Data Source: [Kaggle - Heart Health Data](https://www.kaggle.com/datasets/hardikjp7/heart-health-data)
+## Data Source: [Heart Health Data](https://www.kaggle.com/datasets/hardikjp7/heart-health-data)
 The dataset used in this project is sourced from Kaggle. It includes various health parameters such as age, sex, cholesterol levels, and more, along with a target variable indicating the presence of heart disease.
 
 ## How to Clone and Run the Project
