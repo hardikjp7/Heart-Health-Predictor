@@ -3,4 +3,3 @@ pandas
 streamlit
 mlxtend
 xgboost
-scikit-learn==0.20.1
