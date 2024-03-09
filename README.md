@@ -1,6 +1,5 @@
 # Heart Health Predictor
 
-## Description
 Heart Health Predictor is a web application built using Streamlit that helps users assess their risk of developing a heart disease. Users can input various health parameters, and the application uses a machine learning model to provide a prediction.
 
 ## Project Structure
